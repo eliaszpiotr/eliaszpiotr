@@ -8,7 +8,7 @@ I'm a computer science student who primarily codes in Python. I love working on 
 
 - 👯 I’m looking to collaborate on open-source Python projects or any innovative AI projects.
 
-- 🤔 I’m looking for help with advanced machine learning algorithms and improving my skills in UX/UI design.
+- 🤔 I'm currently seeking an internship in the field of software development or AI/ML.
 
 - 📫 How to reach me: you can reach out to me on my email - eliasz.piotr@icloud.com, or on my [LinkedIn](https://www.linkedin.com/in/piotr-eliasz-b21330256/)
 
