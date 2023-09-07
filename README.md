@@ -2,8 +2,6 @@
 
 I'm a computer science student who primarily codes in Python. I love working on machine learning projects.
 
-- 🔭 I'm developing Pneumonia Detection project and also developing a surfer's community portal to connect and bring together surfers from around the world.
-
 - 🌱 I’m currently learning more about artificial intelligence
 
 - 👯 I’m looking to collaborate on open-source Python projects or any innovative AI projects.
