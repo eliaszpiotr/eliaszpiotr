@@ -3,8 +3,7 @@
 I am a Master's student in Computer Science at **Aarhus University** 🇩🇰 (Class of 2026).
 My studies and interests are focused on the intersection of **Backend Development**, **Data Engineering**, and **AI/ML**.
 
-- 🔭 I’m currently working on a **platform for surfers** and my **Master's thesis**.
-- 🌱 I’m currently learning about **Quantum Information Processing**.
+- 🔭 I’m currently working on my **Master's thesis**.
 - 🐍 My tech stack is centered around **Python**.
 - 🏒 Fun fact: Besides programming, I play hockey for two teams in Aarhus.
 
