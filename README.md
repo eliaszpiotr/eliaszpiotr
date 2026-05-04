@@ -1,20 +1,22 @@
-# Hello there, I'm Eliasz! 👋
+# Hi, I'm Eliasz 👋
 
-I am a Master's student in Computer Science at **Aarhus University** 🇩🇰 (Class of 2026).
-My studies and interests are focused on the intersection of **Backend Development**, **Data Engineering**, and **AI/ML**.
+I'm a Master's student in Computer Science at **Aarhus University** 🇩🇰, expected to graduate in **2026**.
 
-- 🔭 I’m currently working on my **Master's thesis**.
-- 🐍 My tech stack is centered around **Python**.
-- 🏒 Fun fact: Besides programming, I play hockey for two teams in Aarhus.
+My interests are focused on **backend development**, **data engineering**, and **AI/ML**. I enjoy building practical software projects, working with data, and improving my skills in Python-based systems.
 
+## About me
 
-### 📫 Connect me
+- 🎓 Master's student in Computer Science at Aarhus University
+- 🔭 Currently working on my **Master's thesis**
+- 🐍 Main programming language: **Python**
+- 🧠 Interested in backend systems, data pipelines, machine learning, and AI applications
+- 🏒 Outside of programming, I play hockey for two teams in Aarhus
 
-<p align="left">
-<a href="https://www.linkedin.com/in/eliasz-piotr-b21330256/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eliasz Piotr LinkedIn" />
-</a>
-<a href="mailto:eliasz.piotr@icloud.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email Piotr" />
-</a>
-</p>
+## Tech interests
+
+`Python` `Backend Development` `Data Engineering` `AI/ML` `Data Visualization` `Databases`
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/eliasz-piotr-b21330256](https://www.linkedin.com/in/eliasz-piotr-b21330256/)
+- Email: [eliasz.piotr@icloud.com](mailto:eliasz.piotr@icloud.com)
