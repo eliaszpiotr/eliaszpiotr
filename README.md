@@ -1,16 +1,16 @@
 # Hi, I'm Eliasz 👋
 
-I'm a Master's student in Computer Science at **Aarhus University** 🇩🇰, expected to graduate in **2026**.
+I’m a Computer Science graduate from Aarhus University 🇩🇰 interested in building practical, data-driven software.
 
-My interests are focused on **backend development**, **data engineering**, and **AI/ML**. I enjoy building practical software projects, working with data, and improving my skills in Python-based systems.
+My main focus is backend development and data engineering, with additional experience and interest in AI/ML.
 
 ## About me
 
-- 🎓 Master's student in Computer Science at Aarhus University
-- 🔭 Currently working on my **Master's thesis**, focused on **LLM watermarking using PECC**
-- 🐍 Main programming language: **Python**
-- 🧠 Interested in backend systems, data pipelines, machine learning, and AI applications
-- 🏒 Outside of programming, I play hockey for two teams in Aarhus
+* 🎓 MSc in Computer Science from **Aarhus University**
+* 🔬 Master’s thesis on **LLM watermarking**
+* 🐍 Primarily working with **Python**
+* ⚙️ Interested in APIs, databases, data pipelines, and scalable systems
+* 🏒 Outside of programming, I play hockey in Aarhus
 
 ## Tech interests
 
