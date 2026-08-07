@@ -18,5 +18,5 @@ My main focus is backend development and data engineering, with additional exper
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/eliasz-piotr-b21330256](https://www.linkedin.com/in/eliasz-piotr-b21330256/)
+- LinkedIn: [linkedin.com/in/eliasz-piotr](https://www.linkedin.com/in/eliasz-piotr-b21330256/)
 - Email: [eliasz.piotr@icloud.com](mailto:eliasz.piotr@icloud.com)
